@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170098064040",
+    "project_id": "ai-for-all-5290c",
+    "storage_bucket": "ai-for-all-5290c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170098064040:android:40df660f32ea6e25a9e09d",
+        "android_client_info": {
+          "package_name": "com.aiforall.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AAuVGUPuQWjuGQ_zIArkhARNu5g6s5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
