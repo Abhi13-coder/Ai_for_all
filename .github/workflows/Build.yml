@@ -37,7 +37,7 @@ jobs:
           GOOGLE_SERVICES_JSON: ${{ secrets.GOOGLE_SERVICES_JSON }}
         run: |
           if [ -n "$GOOGLE_SERVICES_JSON" ]; then
-            printf '%s' "$GOOGLE_SERVICES_JSON" > AiForAll/app/google-services.json
+            printf '%s' "$GOOGLE_SERVICES_JSON" > AIForAll/app/google-services.json
             echo "google-services.json written."
           else
             echo "No GOOGLE_SERVICES_JSON secret set yet — skipping."
